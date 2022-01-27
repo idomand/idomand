@@ -2,7 +2,7 @@
 
 ### My name is Ido Mandelman and I'm a frontend developer. 
 
-You can find me on [LinkedIn](www.linkedin.com/in/ido-mandelman). 
+You can find me on [LinkedIn](https://www.linkedin.com/in/ido-mandelman/). 
 
 Come see my projects:
 
