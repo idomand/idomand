@@ -1,6 +1,5 @@
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ido and I do Frontend
 
-### My name is Ido Mandelman and I'm a frontend developer.
 
 <p align="left">
     <a href="https://hire-ido.com/">
