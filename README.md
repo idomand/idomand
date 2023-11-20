@@ -24,5 +24,8 @@
 ## 🔧 Technolgies & Tools!
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,styledcomponents,figma,git,github,vite,jest,redux,firebase,vscode&perline=8" />
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,sass,styledcomponents,figma,git,github,vite,jest,redux,firebase,vscode&perline=8"
+  />
 </p>
+
